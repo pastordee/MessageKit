@@ -22,6 +22,8 @@
  SOFTWARE.
  */
 
+//comment
+
 import UIKit
 
 /// InputItem is a protocol that links elements to the MessageInputBar to make them reactive
